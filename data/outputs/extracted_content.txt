@@ -1,0 +1,5989 @@
+
+=== Extracted from 278 - GRANDEUR IT INNOVATIONS.pdf ===
+--- Successfully Extracted PDF Content ---
+
+########################################
+# Page 1
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                            Original Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+  1.
+MODEL NO 1105 S/5 (73239920)            
+73239920
+   23.00 SET   
+     385.00
+     8,855.00
+  2.
+MODEL NO 1106 S/5 (73239920)            
+73239920
+    3.00 SET   
+     340.00
+     1,020.00
+  3.
+MODEL NO 1193 (73239920)                
+73239920
+    6.00 SET   
+     400.00
+     2,400.00
+  4.
+MODEL NO 1205 S/5 (73239920)            
+73239920
+    5.00 SET   
+     375.00
+     1,875.00
+  5.
+MODEL NO 1346 HEAVY BLK (73239920)      
+73239920
+    1.00 Pcs.  
+     850.00
+       850.00
+  6.
+MODEL NO 1398 (73239920)                
+73239920
+    7.00 Pcs.  
+     840.00
+     5,880.00
+  7.
+MODEL NO 1700 (73239920)                
+73239920
+   25.00 Pcs.  
+     185.00
+     4,625.00
+  8.
+MODEL NO 1702 BLK (73239920)            
+73239920
+   75.00 Pcs.  
+     220.00
+    16,500.00
+  9.
+MODEL NO 1005 B (73239920)              
+73239920
+    1.00 Pcs.  
+     480.00
+       480.00
+ 10.
+MODEL NO 1005 E (73239920)              
+73239920
+    1.00 Pcs.  
+     480.00
+       480.00
+ 11.
+MODEL NO 1022 GREEN 73239920            
+73239920
+   14.00 Pcs.  
+     185.00
+     2,590.00
+ 12.
+MODEL NO 1022+1317 ORN (73239920)       
+73239920
+    1.00 SET   
+     245.00
+       245.00
+ 13.
+MODEL NO 1022 YELLOW (73239920)         
+73239920
+    3.00 Pcs.  
+     185.00
+       555.00
+ 14.
+MODEL NO 1170 PIPE S/2 (73239920)       
+73239920
+    8.00 SET   
+     340.00
+     2,720.00
+                                        
+Totals c/o    
+   173.00 Units 
+            
+    49,075.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 2
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                            Original Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   173.00 Units 
+            
+    49,075.00
+ 15.
+MODEL NO 1170 PIPE S/4 (73239920)       
+73239920
+    7.00 SET   
+     640.00
+     4,480.00
+ 16.
+MODEL NO 1170 PIPE S/8 (73239920)       
+73239920
+    6.00 SET   
+   1,290.00
+     7,740.00
+ 17.
+MODEL NO 1173 S/2 (73239920)            
+73239920
+    3.00 SET   
+     390.00
+     1,170.00
+ 18.
+MODEL NO 1173 S/4 (73239920)            
+73239920
+    2.00 SET   
+     760.00
+     1,520.00
+ 19.
+MODEL NO 1177 MINI S/12 (73239920)      
+73239920
+    7.00 SET   
+     840.00
+     5,880.00
+ 20.
+MODEL NO 1177 MINI S/3 (73239920)       
+73239920
+    1.00 SET   
+     234.00
+       234.00
+ 21.
+MODEL NO 1177 MINI S/9 (73239920)       
+73239920
+    1.00 SET   
+     648.00
+       648.00
+ 22.
+MODEL NO 1177 MINI S/1 (73239920)       
+73239920
+    3.00 Pcs.  
+      95.00
+       285.00
+ 23.
+MODEL NO 1202 GOLD (73239920)           
+73239920
+   12.00 Pcs.  
+      70.00
+       840.00
+ 24.
+MODEL NO 1202 WHT (73239920             
+73239920
+    1.00 Pcs.  
+      60.00
+        60.00
+ 25.
+MODEL NO 1210 S/3 (73239920)            
+73239920
+    1.00 SET   
+     336.00
+       336.00
+ 26.
+MODEL NO 1212 GOLD S/2 (73239920)       
+73239920
+   98.00 SET   
+     230.00
+    22,540.00
+ 27.
+MODEL NO 1212 GOLD S/4 (73239920)       
+73239920
+   12.00 SET   
+     450.00
+     5,400.00
+                                        
+Totals c/o    
+   327.00 Units 
+            
+  1,00,208.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 3
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                            Original Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   327.00 Units 
+            
+  1,00,208.00
+ 28.
+MODEL NO 1220 GOLD S/3 (73239920)       
+73239920
+    2.00 SET   
+     675.00
+     1,350.00
+ 29.
+MODEL NO 1220 WHT S/3 (73239920)        
+73239920
+    1.00 SET   
+     600.00
+       600.00
+ 30.
+MODEL NO 1221 A (73239920)              
+73239920
+   95.00 Pcs.  
+   1,280.00
+  1,21,600.00
+ 31.
+MODEL NO 1221 B (73239920)              
+73239920
+   44.00 Pcs.  
+     970.00
+    42,680.00
+ 32.
+MODEL NO 1221 4 STEP (73239920)         
+73239920
+   17.00 Pcs.  
+   1,730.00
+    29,410.00
+ 33.
+MODEL NO 1221 5 (73239920)              
+73239920
+    1.00 Pcs.  
+   2,170.00
+     2,170.00
+ 34.
+MODEL NO 1225 BLK (73239920)            
+73239920
+    1.00 SET   
+     490.00
+       490.00
+ 35.
+MODEL NO 1225 YELLOW (73239920)         
+73239920
+    1.00 Pcs.  
+     490.00
+       490.00
+ 36.
+MODEL NO 1320 AB S/2 (73239920)         
+73239920
+    2.00 SET   
+     230.00
+       460.00
+ 37.
+MODEL NO 1320 EF S/2 (73239920)         
+73239920
+    1.00 SET   
+     230.00
+       230.00
+ 38.
+MODEL NO 1321 F (73239920)              
+73239920
+    9.00 Pcs.  
+     120.00
+     1,080.00
+ 39.
+MODEL NO 1321 G (73239920)              
+73239920
+    1.00 Pcs.  
+     120.00
+       120.00
+ 40.
+MODEL NO 1321 K (73239920)              
+73239920
+    2.00 Pcs.  
+     120.00
+       240.00
+                                        
+Totals c/o    
+   504.00 Units 
+            
+  3,01,128.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 4
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                            Original Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   504.00 Units 
+            
+  3,01,128.00
+ 41.
+MODEL NO 1321 M (73239920)              
+73239920
+    2.00 Pcs.  
+     120.00
+       240.00
+ 42.
+MODEL NO 1322 E (73239920)              
+73239920
+    1.00 Pcs.  
+     140.00
+       140.00
+ 43.
+MODEL NO 1322 F (73239920)              
+73239920
+    2.00 Pcs.  
+     140.00
+       280.00
+ 44.
+MODEL NO 1322 G (73239920)              
+73239920
+    2.00 Pcs.  
+     140.00
+       280.00
+ 45.
+MODEL NO 1330 BLK (73239920)            
+73239920
+    9.00 Pcs.  
+      85.00
+       765.00
+ 46.
+MODEL NO 1330 GREY (73239920)           
+73239920
+    4.00 Pcs.  
+      85.00
+       340.00
+ 47.
+MODEL NO 1330 RED (73239920)            
+73239920
+    1.00 Pcs.  
+      85.00
+        85.00
+ 48.
+MODEL NO 1330 WHT (73239920)            
+73239920
+   16.00 Pcs.  
+      85.00
+     1,360.00
+                                                                                  
+   3,04,618.00
+                         
+  Add  : CGST                           
+@
+    9.00 %     
+    27,415.62
+                         
+  Add  : SGST                           
+@
+    9.00 %     
+    27,415.62
+                         
+  Less  : Rounded Off (-)                
+  
+               
+         0.24
+                                          
+Grand Total 
+   541.00 Units 
+          
+` 
+  3,59,449.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 5
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                            Original Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+HSN/SAC  Tax Rate  
+Taxable Amt. 
+CGST Amt. SGST Amt.    Total Tax
+73239920  18%         3,04,618.00   27,415.62   27,415.62    54,831.24
+Rupees Three Lakh Fifty Nine Thousand Four Hundred Forty Nine Only                              
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+VALIDATION: VALID ✅ (DocNo: 278/2025-26, TotInvVal: 359449.0)
+########################################
+# Page 6
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                           Duplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+  1.
+MODEL NO 1105 S/5 (73239920)            
+73239920
+   23.00 SET   
+     385.00
+     8,855.00
+  2.
+MODEL NO 1106 S/5 (73239920)            
+73239920
+    3.00 SET   
+     340.00
+     1,020.00
+  3.
+MODEL NO 1193 (73239920)                
+73239920
+    6.00 SET   
+     400.00
+     2,400.00
+  4.
+MODEL NO 1205 S/5 (73239920)            
+73239920
+    5.00 SET   
+     375.00
+     1,875.00
+  5.
+MODEL NO 1346 HEAVY BLK (73239920)      
+73239920
+    1.00 Pcs.  
+     850.00
+       850.00
+  6.
+MODEL NO 1398 (73239920)                
+73239920
+    7.00 Pcs.  
+     840.00
+     5,880.00
+  7.
+MODEL NO 1700 (73239920)                
+73239920
+   25.00 Pcs.  
+     185.00
+     4,625.00
+  8.
+MODEL NO 1702 BLK (73239920)            
+73239920
+   75.00 Pcs.  
+     220.00
+    16,500.00
+  9.
+MODEL NO 1005 B (73239920)              
+73239920
+    1.00 Pcs.  
+     480.00
+       480.00
+ 10.
+MODEL NO 1005 E (73239920)              
+73239920
+    1.00 Pcs.  
+     480.00
+       480.00
+ 11.
+MODEL NO 1022 GREEN 73239920            
+73239920
+   14.00 Pcs.  
+     185.00
+     2,590.00
+ 12.
+MODEL NO 1022+1317 ORN (73239920)       
+73239920
+    1.00 SET   
+     245.00
+       245.00
+ 13.
+MODEL NO 1022 YELLOW (73239920)         
+73239920
+    3.00 Pcs.  
+     185.00
+       555.00
+ 14.
+MODEL NO 1170 PIPE S/2 (73239920)       
+73239920
+    8.00 SET   
+     340.00
+     2,720.00
+                                        
+Totals c/o    
+   173.00 Units 
+            
+    49,075.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 7
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                           Duplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   173.00 Units 
+            
+    49,075.00
+ 15.
+MODEL NO 1170 PIPE S/4 (73239920)       
+73239920
+    7.00 SET   
+     640.00
+     4,480.00
+ 16.
+MODEL NO 1170 PIPE S/8 (73239920)       
+73239920
+    6.00 SET   
+   1,290.00
+     7,740.00
+ 17.
+MODEL NO 1173 S/2 (73239920)            
+73239920
+    3.00 SET   
+     390.00
+     1,170.00
+ 18.
+MODEL NO 1173 S/4 (73239920)            
+73239920
+    2.00 SET   
+     760.00
+     1,520.00
+ 19.
+MODEL NO 1177 MINI S/12 (73239920)      
+73239920
+    7.00 SET   
+     840.00
+     5,880.00
+ 20.
+MODEL NO 1177 MINI S/3 (73239920)       
+73239920
+    1.00 SET   
+     234.00
+       234.00
+ 21.
+MODEL NO 1177 MINI S/9 (73239920)       
+73239920
+    1.00 SET   
+     648.00
+       648.00
+ 22.
+MODEL NO 1177 MINI S/1 (73239920)       
+73239920
+    3.00 Pcs.  
+      95.00
+       285.00
+ 23.
+MODEL NO 1202 GOLD (73239920)           
+73239920
+   12.00 Pcs.  
+      70.00
+       840.00
+ 24.
+MODEL NO 1202 WHT (73239920             
+73239920
+    1.00 Pcs.  
+      60.00
+        60.00
+ 25.
+MODEL NO 1210 S/3 (73239920)            
+73239920
+    1.00 SET   
+     336.00
+       336.00
+ 26.
+MODEL NO 1212 GOLD S/2 (73239920)       
+73239920
+   98.00 SET   
+     230.00
+    22,540.00
+ 27.
+MODEL NO 1212 GOLD S/4 (73239920)       
+73239920
+   12.00 SET   
+     450.00
+     5,400.00
+                                        
+Totals c/o    
+   327.00 Units 
+            
+  1,00,208.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 8
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                           Duplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   327.00 Units 
+            
+  1,00,208.00
+ 28.
+MODEL NO 1220 GOLD S/3 (73239920)       
+73239920
+    2.00 SET   
+     675.00
+     1,350.00
+ 29.
+MODEL NO 1220 WHT S/3 (73239920)        
+73239920
+    1.00 SET   
+     600.00
+       600.00
+ 30.
+MODEL NO 1221 A (73239920)              
+73239920
+   95.00 Pcs.  
+   1,280.00
+  1,21,600.00
+ 31.
+MODEL NO 1221 B (73239920)              
+73239920
+   44.00 Pcs.  
+     970.00
+    42,680.00
+ 32.
+MODEL NO 1221 4 STEP (73239920)         
+73239920
+   17.00 Pcs.  
+   1,730.00
+    29,410.00
+ 33.
+MODEL NO 1221 5 (73239920)              
+73239920
+    1.00 Pcs.  
+   2,170.00
+     2,170.00
+ 34.
+MODEL NO 1225 BLK (73239920)            
+73239920
+    1.00 SET   
+     490.00
+       490.00
+ 35.
+MODEL NO 1225 YELLOW (73239920)         
+73239920
+    1.00 Pcs.  
+     490.00
+       490.00
+ 36.
+MODEL NO 1320 AB S/2 (73239920)         
+73239920
+    2.00 SET   
+     230.00
+       460.00
+ 37.
+MODEL NO 1320 EF S/2 (73239920)         
+73239920
+    1.00 SET   
+     230.00
+       230.00
+ 38.
+MODEL NO 1321 F (73239920)              
+73239920
+    9.00 Pcs.  
+     120.00
+     1,080.00
+ 39.
+MODEL NO 1321 G (73239920)              
+73239920
+    1.00 Pcs.  
+     120.00
+       120.00
+ 40.
+MODEL NO 1321 K (73239920)              
+73239920
+    2.00 Pcs.  
+     120.00
+       240.00
+                                        
+Totals c/o    
+   504.00 Units 
+            
+  3,01,128.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 9
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                           Duplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   504.00 Units 
+            
+  3,01,128.00
+ 41.
+MODEL NO 1321 M (73239920)              
+73239920
+    2.00 Pcs.  
+     120.00
+       240.00
+ 42.
+MODEL NO 1322 E (73239920)              
+73239920
+    1.00 Pcs.  
+     140.00
+       140.00
+ 43.
+MODEL NO 1322 F (73239920)              
+73239920
+    2.00 Pcs.  
+     140.00
+       280.00
+ 44.
+MODEL NO 1322 G (73239920)              
+73239920
+    2.00 Pcs.  
+     140.00
+       280.00
+ 45.
+MODEL NO 1330 BLK (73239920)            
+73239920
+    9.00 Pcs.  
+      85.00
+       765.00
+ 46.
+MODEL NO 1330 GREY (73239920)           
+73239920
+    4.00 Pcs.  
+      85.00
+       340.00
+ 47.
+MODEL NO 1330 RED (73239920)            
+73239920
+    1.00 Pcs.  
+      85.00
+        85.00
+ 48.
+MODEL NO 1330 WHT (73239920)            
+73239920
+   16.00 Pcs.  
+      85.00
+     1,360.00
+                                                                                  
+   3,04,618.00
+                         
+  Add  : CGST                           
+@
+    9.00 %     
+    27,415.62
+                         
+  Add  : SGST                           
+@
+    9.00 %     
+    27,415.62
+                         
+  Less  : Rounded Off (-)                
+  
+               
+         0.24
+                                          
+Grand Total 
+   541.00 Units 
+          
+` 
+  3,59,449.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 10
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                           Duplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+HSN/SAC  Tax Rate  
+Taxable Amt. 
+CGST Amt. SGST Amt.    Total Tax
+73239920  18%         3,04,618.00   27,415.62   27,415.62    54,831.24
+Rupees Three Lakh Fifty Nine Thousand Four Hundred Forty Nine Only                              
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+VALIDATION: VALID ✅ (DocNo: 278/2025-26, TotInvVal: 359449.0)
+########################################
+# Page 11
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                          Triplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+  1.
+MODEL NO 1105 S/5 (73239920)            
+73239920
+   23.00 SET   
+     385.00
+     8,855.00
+  2.
+MODEL NO 1106 S/5 (73239920)            
+73239920
+    3.00 SET   
+     340.00
+     1,020.00
+  3.
+MODEL NO 1193 (73239920)                
+73239920
+    6.00 SET   
+     400.00
+     2,400.00
+  4.
+MODEL NO 1205 S/5 (73239920)            
+73239920
+    5.00 SET   
+     375.00
+     1,875.00
+  5.
+MODEL NO 1346 HEAVY BLK (73239920)      
+73239920
+    1.00 Pcs.  
+     850.00
+       850.00
+  6.
+MODEL NO 1398 (73239920)                
+73239920
+    7.00 Pcs.  
+     840.00
+     5,880.00
+  7.
+MODEL NO 1700 (73239920)                
+73239920
+   25.00 Pcs.  
+     185.00
+     4,625.00
+  8.
+MODEL NO 1702 BLK (73239920)            
+73239920
+   75.00 Pcs.  
+     220.00
+    16,500.00
+  9.
+MODEL NO 1005 B (73239920)              
+73239920
+    1.00 Pcs.  
+     480.00
+       480.00
+ 10.
+MODEL NO 1005 E (73239920)              
+73239920
+    1.00 Pcs.  
+     480.00
+       480.00
+ 11.
+MODEL NO 1022 GREEN 73239920            
+73239920
+   14.00 Pcs.  
+     185.00
+     2,590.00
+ 12.
+MODEL NO 1022+1317 ORN (73239920)       
+73239920
+    1.00 SET   
+     245.00
+       245.00
+ 13.
+MODEL NO 1022 YELLOW (73239920)         
+73239920
+    3.00 Pcs.  
+     185.00
+       555.00
+ 14.
+MODEL NO 1170 PIPE S/2 (73239920)       
+73239920
+    8.00 SET   
+     340.00
+     2,720.00
+                                        
+Totals c/o    
+   173.00 Units 
+            
+    49,075.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 12
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                          Triplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   173.00 Units 
+            
+    49,075.00
+ 15.
+MODEL NO 1170 PIPE S/4 (73239920)       
+73239920
+    7.00 SET   
+     640.00
+     4,480.00
+ 16.
+MODEL NO 1170 PIPE S/8 (73239920)       
+73239920
+    6.00 SET   
+   1,290.00
+     7,740.00
+ 17.
+MODEL NO 1173 S/2 (73239920)            
+73239920
+    3.00 SET   
+     390.00
+     1,170.00
+ 18.
+MODEL NO 1173 S/4 (73239920)            
+73239920
+    2.00 SET   
+     760.00
+     1,520.00
+ 19.
+MODEL NO 1177 MINI S/12 (73239920)      
+73239920
+    7.00 SET   
+     840.00
+     5,880.00
+ 20.
+MODEL NO 1177 MINI S/3 (73239920)       
+73239920
+    1.00 SET   
+     234.00
+       234.00
+ 21.
+MODEL NO 1177 MINI S/9 (73239920)       
+73239920
+    1.00 SET   
+     648.00
+       648.00
+ 22.
+MODEL NO 1177 MINI S/1 (73239920)       
+73239920
+    3.00 Pcs.  
+      95.00
+       285.00
+ 23.
+MODEL NO 1202 GOLD (73239920)           
+73239920
+   12.00 Pcs.  
+      70.00
+       840.00
+ 24.
+MODEL NO 1202 WHT (73239920             
+73239920
+    1.00 Pcs.  
+      60.00
+        60.00
+ 25.
+MODEL NO 1210 S/3 (73239920)            
+73239920
+    1.00 SET   
+     336.00
+       336.00
+ 26.
+MODEL NO 1212 GOLD S/2 (73239920)       
+73239920
+   98.00 SET   
+     230.00
+    22,540.00
+ 27.
+MODEL NO 1212 GOLD S/4 (73239920)       
+73239920
+   12.00 SET   
+     450.00
+     5,400.00
+                                        
+Totals c/o    
+   327.00 Units 
+            
+  1,00,208.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 13
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                          Triplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   327.00 Units 
+            
+  1,00,208.00
+ 28.
+MODEL NO 1220 GOLD S/3 (73239920)       
+73239920
+    2.00 SET   
+     675.00
+     1,350.00
+ 29.
+MODEL NO 1220 WHT S/3 (73239920)        
+73239920
+    1.00 SET   
+     600.00
+       600.00
+ 30.
+MODEL NO 1221 A (73239920)              
+73239920
+   95.00 Pcs.  
+   1,280.00
+  1,21,600.00
+ 31.
+MODEL NO 1221 B (73239920)              
+73239920
+   44.00 Pcs.  
+     970.00
+    42,680.00
+ 32.
+MODEL NO 1221 4 STEP (73239920)         
+73239920
+   17.00 Pcs.  
+   1,730.00
+    29,410.00
+ 33.
+MODEL NO 1221 5 (73239920)              
+73239920
+    1.00 Pcs.  
+   2,170.00
+     2,170.00
+ 34.
+MODEL NO 1225 BLK (73239920)            
+73239920
+    1.00 SET   
+     490.00
+       490.00
+ 35.
+MODEL NO 1225 YELLOW (73239920)         
+73239920
+    1.00 Pcs.  
+     490.00
+       490.00
+ 36.
+MODEL NO 1320 AB S/2 (73239920)         
+73239920
+    2.00 SET   
+     230.00
+       460.00
+ 37.
+MODEL NO 1320 EF S/2 (73239920)         
+73239920
+    1.00 SET   
+     230.00
+       230.00
+ 38.
+MODEL NO 1321 F (73239920)              
+73239920
+    9.00 Pcs.  
+     120.00
+     1,080.00
+ 39.
+MODEL NO 1321 G (73239920)              
+73239920
+    1.00 Pcs.  
+     120.00
+       120.00
+ 40.
+MODEL NO 1321 K (73239920)              
+73239920
+    2.00 Pcs.  
+     120.00
+       240.00
+                                        
+Totals c/o    
+   504.00 Units 
+            
+  3,01,128.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 14
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                          Triplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   504.00 Units 
+            
+  3,01,128.00
+ 41.
+MODEL NO 1321 M (73239920)              
+73239920
+    2.00 Pcs.  
+     120.00
+       240.00
+ 42.
+MODEL NO 1322 E (73239920)              
+73239920
+    1.00 Pcs.  
+     140.00
+       140.00
+ 43.
+MODEL NO 1322 F (73239920)              
+73239920
+    2.00 Pcs.  
+     140.00
+       280.00
+ 44.
+MODEL NO 1322 G (73239920)              
+73239920
+    2.00 Pcs.  
+     140.00
+       280.00
+ 45.
+MODEL NO 1330 BLK (73239920)            
+73239920
+    9.00 Pcs.  
+      85.00
+       765.00
+ 46.
+MODEL NO 1330 GREY (73239920)           
+73239920
+    4.00 Pcs.  
+      85.00
+       340.00
+ 47.
+MODEL NO 1330 RED (73239920)            
+73239920
+    1.00 Pcs.  
+      85.00
+        85.00
+ 48.
+MODEL NO 1330 WHT (73239920)            
+73239920
+   16.00 Pcs.  
+      85.00
+     1,360.00
+                                                                                  
+   3,04,618.00
+                         
+  Add  : CGST                           
+@
+    9.00 %     
+    27,415.62
+                         
+  Add  : SGST                           
+@
+    9.00 %     
+    27,415.62
+                         
+  Less  : Rounded Off (-)                
+  
+               
+         0.24
+                                          
+Grand Total 
+   541.00 Units 
+          
+` 
+  3,59,449.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 15
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjc4LzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjUvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6MzU5NDQ5LjAsXCJJdGVtQ250XCI6NDgsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiZGEyZjhlYzI1YmYzMGJhZWQxZjc4ODVmMDliYzQxMDAzYmFjZWFmZGQyM2I3NzAyYTI5ZWFjZmQ0YjkwMjdkOFwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjUgMTY6MjI6MDBcIn0ifQ.iOqSWbBE5BBIR23RugSff3upWjc1ElzPucm8Hahc0DCiVglWZM5JhYBf-NNOZS-qi0zKl9PQ-FfsiZy6AJL_Iv6pj4JJR-3fG4N7Nq-2CC6F9fhqtanKs8hcjwBjPdsMiVYnSxhDOCbhX7rGQ4Ck4O8SIfEinZ8PA3R6rrltVaQwmZTTU_fWrufF44-bjDY4kx-tUTc9dOQFvD5TNnnSTt1pjHaKViK-T4lKW109kF--8Js-ULV1pHkI5PhLrx8QO4NwlW8VkLVYMJhkMxsxMsKEmk2FXnACwr-PcZIP8NmQ4FD55KFIu_jwfkQqq9LiJlmSzSw5Qi3sA_FxyXD7NQ
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "278/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "25/08/2025",
+        "TotInvVal": 359449.0,
+        "ItemCnt": 48,
+        "MainHsnCode": "73239920",
+        "Irn": "da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8",
+        "IrnDt": "2025-08-25 16:22:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                          Triplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 278/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 25-08-2025
+                    
+E-Way Bill No. 
+: 411611373773                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : da2f8ec25bf30baed1f7885f09bc41003baceafdd23b7702a29eacfd4b9027d8
+Ack.No. : 142518136958281     Ack. Date   :  25-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+HSN/SAC  Tax Rate  
+Taxable Amt. 
+CGST Amt. SGST Amt.    Total Tax
+73239920  18%         3,04,618.00   27,415.62   27,415.62    54,831.24
+Rupees Three Lakh Fifty Nine Thousand Four Hundred Forty Nine Only                              
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+=== Extracted from 281 - GRANDEUR IT INNOVATIONS.pdf ===
+--- Successfully Extracted PDF Content ---
+
+VALIDATION: VALID ✅ (DocNo: 278/2025-26, TotInvVal: 359449.0)
+########################################
+# Page 1
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                            Original Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+  1.
+MODEL NO 1341 WHT (73239920)            
+73239920
+    2.00 Pcs.  
+     115.00
+       230.00
+  2.
+MODEL NO 1344 BLACK (73239920)          
+73239920
+    1.00 Pcs.  
+   1,150.00
+     1,150.00
+  3.
+MODEL NO 1346 HEAVY BLK (73239920)      
+73239920
+    4.00 Pcs.  
+     850.00
+     3,400.00
+  4.
+MODEL NO 1346 LITE WHT (73239920)       
+73239920
+    1.00 Pcs.  
+     660.00
+       660.00
+  5.
+MODEL NO 1352 ORG S/3 (73239920)        
+73239920
+    2.00 SET   
+     990.00
+     1,980.00
+  6.
+MODEL NO 1402 S/2 (73239920)            
+73239920
+    7.00 SET   
+      56.00
+       392.00
+  7.
+MODEL NO 1403 S/10 W SUPPORT (73239920) 
+73239920
+    6.00 SET   
+     345.00
+     2,070.00
+  8.
+MODEL NO 1403 S/3 W SUPPORT (73239920)  
+73239920
+   18.00 SET   
+     105.00
+     1,890.00
+  9.
+MODEL NO 1403 S/5 W SUPPORT (73239920)  
+73239920
+   30.00 SET   
+     175.00
+     5,250.00
+ 10.
+MODEL NO 1403 S/5 (73239920)            
+73239920
+    9.00 SET   
+     105.00
+       945.00
+ 11.
+MODEL NO 1429 GRN S/2 (73239920)        
+73239920
+   15.00 SET   
+     280.00
+     4,200.00
+ 12.
+MODEL NO 1429 GRN S/4 (73239920)        
+73239920
+   19.00 SET   
+     540.00
+    10,260.00
+ 13.
+MODEL NO 1429 S/2 (73239920)            
+73239920
+   11.00 SET   
+     280.00
+     3,080.00
+ 14.
+MODEL NO 1429 S/4 (73239920)            
+73239920
+  291.00 SET   
+     540.00
+  1,57,140.00
+                                        
+Totals c/o    
+   416.00 Units 
+            
+  1,92,647.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 2
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                            Original Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   416.00 Units 
+            
+  1,92,647.00
+ 15.
+MODEL NO 1431 GRN S/2 (73239920)        
+73239920
+    3.00 SET   
+     480.00
+     1,440.00
+ 16.
+MODEL NO 1431 GRN S/4 (73239920)        
+73239920
+    2.00 SET   
+     940.00
+     1,880.00
+ 17.
+MODEL NO 1431 S/2 (73239920)            
+73239920
+    2.00 SET   
+     480.00
+       960.00
+ 18.
+MODEL NO 1431 S/4 (73239920)            
+73239920
+   11.00 SET   
+     940.00
+    10,340.00
+ 19.
+1512+1330 RED *2 (73239920)             
+73239920
+    1.00 SET   
+     390.00
+       390.00
+ 20.
+1512 SMALL + 1330 WHT S/2 (73239920)    
+73239920
+    2.00 SET   
+     390.00
+       780.00
+ 21.
+MODEL NO 1513 BLK S/2 (73239920)        
+73239920
+    2.00 SET   
+     180.00
+       360.00
+ 22.
+MODEL NO 1513 WHT S/2 (73239920)        
+73239920
+    3.00 SET   
+     180.00
+       540.00
+ 23.
+MODEL NO 1602 S/10 (73239920)           
+73239920
+    4.00 SET   
+      85.00
+       340.00
+ 24.
+MODEL NO 1603 S/3 (73239920)            
+73239920
+    1.00 SET   
+     180.00
+       180.00
+ 25.
+MODEL NO 1702 GRN (73239920)            
+73239920
+    3.00 Pcs.  
+     220.00
+       660.00
+ 26.
+MODEL NO 1730 S/2 (73239920)            
+73239920
+  122.00 SET   
+     310.00
+    37,820.00
+ 27.
+MODEL NO 1736 S/3 (73239920)            
+73239920
+    4.00 SET   
+     210.00
+       840.00
+                                        
+Totals c/o    
+   576.00 Units 
+            
+  2,49,177.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 3
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                            Original Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   576.00 Units 
+            
+  2,49,177.00
+ 28.
+MODEL NO 1736 S/6 (73239920)            
+73239920
+    8.00 SET   
+     402.00
+     3,216.00
+ 29.
+MODEL NO APOLLO BLK S/1 (73239920)      
+73239920
+   13.00 Pcs.  
+     205.00
+     2,665.00
+ 30.
+APOLLO BLK SINGLE WITH GRASS (73239920) 
+73239920
+   10.00 Pcs.  
+     224.00
+     2,240.00
+ 31.
+MODEL NO APOLLO GRN S/2 (73239920)      
+73239920
+   12.00 SET   
+     385.00
+     4,620.00
+ 32.
+APOLLO GRN S/2 WITH GRASS (73239920)    
+73239920
+    9.00 SET   
+     423.00
+     3,807.00
+ 33.
+MODEL NO APOLLO GRN S/4 (73239920)      
+73239920
+   38.00 SET   
+     730.00
+    27,740.00
+ 34.
+APOLLO GRN S/4 WITH GRASS (73239920)    
+73239920
+   19.00 SET   
+     806.00
+    15,314.00
+ 35.
+MODEL NO APOLLO GRN S/1 (73239920)      
+73239920
+    5.00 Pcs.  
+     205.00
+     1,025.00
+ 36.
+APOLLO GRN SINGLE WITH GRASS (73239920) 
+73239920
+    2.00 Pcs.  
+     224.00
+       448.00
+ 37.
+MODEL NO APOLLO WHT S/2 (73239920)      
+73239920
+   27.00 SET   
+     385.00
+    10,395.00
+ 38.
+APOLLO WHT S/2 WITH GRASS (73239920)    
+73239920
+   10.00 SET   
+     423.00
+     4,230.00
+ 39.
+MODEL NO APOLLO WHT S/4 (73239920)      
+73239920
+   29.00 SET   
+     730.00
+    21,170.00
+ 40.
+APOLLO WHT S/4 WITH GRASS (73239920)    
+73239920
+   34.00 SET   
+     806.00
+    27,404.00
+                                        
+Totals c/o    
+   792.00 Units 
+            
+  3,73,451.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 4
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                            Original Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   792.00 Units 
+            
+  3,73,451.00
+ 41.
+MODEL NO APOLLO WHT S/1(73239920)       
+73239920
+   11.00 Pcs.  
+     205.00
+     2,255.00
+ 42.
+APOLLO WHT S/1 WITH GRASS (73239920)    
+73239920
+   11.00 Pcs.  
+     224.00
+     2,464.00
+ 43.
+MODEL NO DH -1 (73239920)               
+73239920
+    1.00 Pcs.  
+     230.00
+       230.00
+ 44.
+MODEL NO PRIMO SINGLE (73239920)        
+73239920
+    4.00 Pcs.  
+     110.00
+       440.00
+ 45.
+MODEL NO PRIMO S/3 (73239920)           
+73239920
+    3.00 SET   
+     300.00
+       900.00
+ 46.
+MODEL NO PRIMO S/6 (73239920)           
+73239920
+    3.00 SET   
+     570.00
+     1,710.00
+ 47.
+MODEL NO PRIMO S/9 (73239920)           
+73239920
+    1.00 SET   
+     810.00
+       810.00
+ 48.
+MODEL NO 1202 GOLD S/2 (73239920)       
+73239920
+    8.00 SET   
+     115.00
+       920.00
+ 49.
+MODEL NO 1403 S/10 (73239920)           
+73239920
+    3.00 SET   
+     210.00
+       630.00
+ 50.
+1512+1330 CYAN*2 (73239920)             
+73239920
+    1.00 SET   
+     390.00
+       390.00
+ 51.
+MODEL NO 1170 S/2 (73239920)            
+73239920
+    1.00 SET   
+     300.00
+       300.00
+                                                                                  
+   3,84,500.00
+                                        
+Totals c/o    
+   839.00 Units 
+            
+  3,84,500.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 5
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                            Original Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   839.00 Units 
+            
+  3,84,500.00
+                         
+  Add  : CGST                           
+@
+    9.00 %     
+    34,605.00
+                         
+  Add  : SGST                           
+@
+    9.00 %     
+    34,605.00
+                                          
+Grand Total 
+   839.00 Units 
+          
+` 
+  4,53,710.00
+                                                      
+       
+            
+HSN/SAC  Tax Rate  
+Taxable Amt. 
+CGST Amt. SGST Amt.    Total Tax
+73239920  18%         3,84,500.00   34,605.00   34,605.00    69,210.00
+Rupees Four Lakh Fifty Three Thousand Seven Hundred Ten Only                                    
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+VALIDATION: VALID ✅ (DocNo: 281/2025-26, TotInvVal: 453710.0)
+########################################
+# Page 6
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                           Duplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+  1.
+MODEL NO 1341 WHT (73239920)            
+73239920
+    2.00 Pcs.  
+     115.00
+       230.00
+  2.
+MODEL NO 1344 BLACK (73239920)          
+73239920
+    1.00 Pcs.  
+   1,150.00
+     1,150.00
+  3.
+MODEL NO 1346 HEAVY BLK (73239920)      
+73239920
+    4.00 Pcs.  
+     850.00
+     3,400.00
+  4.
+MODEL NO 1346 LITE WHT (73239920)       
+73239920
+    1.00 Pcs.  
+     660.00
+       660.00
+  5.
+MODEL NO 1352 ORG S/3 (73239920)        
+73239920
+    2.00 SET   
+     990.00
+     1,980.00
+  6.
+MODEL NO 1402 S/2 (73239920)            
+73239920
+    7.00 SET   
+      56.00
+       392.00
+  7.
+MODEL NO 1403 S/10 W SUPPORT (73239920) 
+73239920
+    6.00 SET   
+     345.00
+     2,070.00
+  8.
+MODEL NO 1403 S/3 W SUPPORT (73239920)  
+73239920
+   18.00 SET   
+     105.00
+     1,890.00
+  9.
+MODEL NO 1403 S/5 W SUPPORT (73239920)  
+73239920
+   30.00 SET   
+     175.00
+     5,250.00
+ 10.
+MODEL NO 1403 S/5 (73239920)            
+73239920
+    9.00 SET   
+     105.00
+       945.00
+ 11.
+MODEL NO 1429 GRN S/2 (73239920)        
+73239920
+   15.00 SET   
+     280.00
+     4,200.00
+ 12.
+MODEL NO 1429 GRN S/4 (73239920)        
+73239920
+   19.00 SET   
+     540.00
+    10,260.00
+ 13.
+MODEL NO 1429 S/2 (73239920)            
+73239920
+   11.00 SET   
+     280.00
+     3,080.00
+ 14.
+MODEL NO 1429 S/4 (73239920)            
+73239920
+  291.00 SET   
+     540.00
+  1,57,140.00
+                                        
+Totals c/o    
+   416.00 Units 
+            
+  1,92,647.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 7
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                           Duplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   416.00 Units 
+            
+  1,92,647.00
+ 15.
+MODEL NO 1431 GRN S/2 (73239920)        
+73239920
+    3.00 SET   
+     480.00
+     1,440.00
+ 16.
+MODEL NO 1431 GRN S/4 (73239920)        
+73239920
+    2.00 SET   
+     940.00
+     1,880.00
+ 17.
+MODEL NO 1431 S/2 (73239920)            
+73239920
+    2.00 SET   
+     480.00
+       960.00
+ 18.
+MODEL NO 1431 S/4 (73239920)            
+73239920
+   11.00 SET   
+     940.00
+    10,340.00
+ 19.
+1512+1330 RED *2 (73239920)             
+73239920
+    1.00 SET   
+     390.00
+       390.00
+ 20.
+1512 SMALL + 1330 WHT S/2 (73239920)    
+73239920
+    2.00 SET   
+     390.00
+       780.00
+ 21.
+MODEL NO 1513 BLK S/2 (73239920)        
+73239920
+    2.00 SET   
+     180.00
+       360.00
+ 22.
+MODEL NO 1513 WHT S/2 (73239920)        
+73239920
+    3.00 SET   
+     180.00
+       540.00
+ 23.
+MODEL NO 1602 S/10 (73239920)           
+73239920
+    4.00 SET   
+      85.00
+       340.00
+ 24.
+MODEL NO 1603 S/3 (73239920)            
+73239920
+    1.00 SET   
+     180.00
+       180.00
+ 25.
+MODEL NO 1702 GRN (73239920)            
+73239920
+    3.00 Pcs.  
+     220.00
+       660.00
+ 26.
+MODEL NO 1730 S/2 (73239920)            
+73239920
+  122.00 SET   
+     310.00
+    37,820.00
+ 27.
+MODEL NO 1736 S/3 (73239920)            
+73239920
+    4.00 SET   
+     210.00
+       840.00
+                                        
+Totals c/o    
+   576.00 Units 
+            
+  2,49,177.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 8
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                           Duplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   576.00 Units 
+            
+  2,49,177.00
+ 28.
+MODEL NO 1736 S/6 (73239920)            
+73239920
+    8.00 SET   
+     402.00
+     3,216.00
+ 29.
+MODEL NO APOLLO BLK S/1 (73239920)      
+73239920
+   13.00 Pcs.  
+     205.00
+     2,665.00
+ 30.
+APOLLO BLK SINGLE WITH GRASS (73239920) 
+73239920
+   10.00 Pcs.  
+     224.00
+     2,240.00
+ 31.
+MODEL NO APOLLO GRN S/2 (73239920)      
+73239920
+   12.00 SET   
+     385.00
+     4,620.00
+ 32.
+APOLLO GRN S/2 WITH GRASS (73239920)    
+73239920
+    9.00 SET   
+     423.00
+     3,807.00
+ 33.
+MODEL NO APOLLO GRN S/4 (73239920)      
+73239920
+   38.00 SET   
+     730.00
+    27,740.00
+ 34.
+APOLLO GRN S/4 WITH GRASS (73239920)    
+73239920
+   19.00 SET   
+     806.00
+    15,314.00
+ 35.
+MODEL NO APOLLO GRN S/1 (73239920)      
+73239920
+    5.00 Pcs.  
+     205.00
+     1,025.00
+ 36.
+APOLLO GRN SINGLE WITH GRASS (73239920) 
+73239920
+    2.00 Pcs.  
+     224.00
+       448.00
+ 37.
+MODEL NO APOLLO WHT S/2 (73239920)      
+73239920
+   27.00 SET   
+     385.00
+    10,395.00
+ 38.
+APOLLO WHT S/2 WITH GRASS (73239920)    
+73239920
+   10.00 SET   
+     423.00
+     4,230.00
+ 39.
+MODEL NO APOLLO WHT S/4 (73239920)      
+73239920
+   29.00 SET   
+     730.00
+    21,170.00
+ 40.
+APOLLO WHT S/4 WITH GRASS (73239920)    
+73239920
+   34.00 SET   
+     806.00
+    27,404.00
+                                        
+Totals c/o    
+   792.00 Units 
+            
+  3,73,451.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 9
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                           Duplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   792.00 Units 
+            
+  3,73,451.00
+ 41.
+MODEL NO APOLLO WHT S/1(73239920)       
+73239920
+   11.00 Pcs.  
+     205.00
+     2,255.00
+ 42.
+APOLLO WHT S/1 WITH GRASS (73239920)    
+73239920
+   11.00 Pcs.  
+     224.00
+     2,464.00
+ 43.
+MODEL NO DH -1 (73239920)               
+73239920
+    1.00 Pcs.  
+     230.00
+       230.00
+ 44.
+MODEL NO PRIMO SINGLE (73239920)        
+73239920
+    4.00 Pcs.  
+     110.00
+       440.00
+ 45.
+MODEL NO PRIMO S/3 (73239920)           
+73239920
+    3.00 SET   
+     300.00
+       900.00
+ 46.
+MODEL NO PRIMO S/6 (73239920)           
+73239920
+    3.00 SET   
+     570.00
+     1,710.00
+ 47.
+MODEL NO PRIMO S/9 (73239920)           
+73239920
+    1.00 SET   
+     810.00
+       810.00
+ 48.
+MODEL NO 1202 GOLD S/2 (73239920)       
+73239920
+    8.00 SET   
+     115.00
+       920.00
+ 49.
+MODEL NO 1403 S/10 (73239920)           
+73239920
+    3.00 SET   
+     210.00
+       630.00
+ 50.
+1512+1330 CYAN*2 (73239920)             
+73239920
+    1.00 SET   
+     390.00
+       390.00
+ 51.
+MODEL NO 1170 S/2 (73239920)            
+73239920
+    1.00 SET   
+     300.00
+       300.00
+                                                                                  
+   3,84,500.00
+                                        
+Totals c/o    
+   839.00 Units 
+            
+  3,84,500.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 10
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                           Duplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   839.00 Units 
+            
+  3,84,500.00
+                         
+  Add  : CGST                           
+@
+    9.00 %     
+    34,605.00
+                         
+  Add  : SGST                           
+@
+    9.00 %     
+    34,605.00
+                                          
+Grand Total 
+   839.00 Units 
+          
+` 
+  4,53,710.00
+                                                      
+       
+            
+HSN/SAC  Tax Rate  
+Taxable Amt. 
+CGST Amt. SGST Amt.    Total Tax
+73239920  18%         3,84,500.00   34,605.00   34,605.00    69,210.00
+Rupees Four Lakh Fifty Three Thousand Seven Hundred Ten Only                                    
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+VALIDATION: ERROR ⚠️ (Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy6535eteykbfwahytyfxw6a` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 200040, Requested 1896. Please try again in 13m56.689s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}})
+########################################
+# Page 11
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                          Triplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+  1.
+MODEL NO 1341 WHT (73239920)            
+73239920
+    2.00 Pcs.  
+     115.00
+       230.00
+  2.
+MODEL NO 1344 BLACK (73239920)          
+73239920
+    1.00 Pcs.  
+   1,150.00
+     1,150.00
+  3.
+MODEL NO 1346 HEAVY BLK (73239920)      
+73239920
+    4.00 Pcs.  
+     850.00
+     3,400.00
+  4.
+MODEL NO 1346 LITE WHT (73239920)       
+73239920
+    1.00 Pcs.  
+     660.00
+       660.00
+  5.
+MODEL NO 1352 ORG S/3 (73239920)        
+73239920
+    2.00 SET   
+     990.00
+     1,980.00
+  6.
+MODEL NO 1402 S/2 (73239920)            
+73239920
+    7.00 SET   
+      56.00
+       392.00
+  7.
+MODEL NO 1403 S/10 W SUPPORT (73239920) 
+73239920
+    6.00 SET   
+     345.00
+     2,070.00
+  8.
+MODEL NO 1403 S/3 W SUPPORT (73239920)  
+73239920
+   18.00 SET   
+     105.00
+     1,890.00
+  9.
+MODEL NO 1403 S/5 W SUPPORT (73239920)  
+73239920
+   30.00 SET   
+     175.00
+     5,250.00
+ 10.
+MODEL NO 1403 S/5 (73239920)            
+73239920
+    9.00 SET   
+     105.00
+       945.00
+ 11.
+MODEL NO 1429 GRN S/2 (73239920)        
+73239920
+   15.00 SET   
+     280.00
+     4,200.00
+ 12.
+MODEL NO 1429 GRN S/4 (73239920)        
+73239920
+   19.00 SET   
+     540.00
+    10,260.00
+ 13.
+MODEL NO 1429 S/2 (73239920)            
+73239920
+   11.00 SET   
+     280.00
+     3,080.00
+ 14.
+MODEL NO 1429 S/4 (73239920)            
+73239920
+  291.00 SET   
+     540.00
+  1,57,140.00
+                                        
+Totals c/o    
+   416.00 Units 
+            
+  1,92,647.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 12
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                          Triplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   416.00 Units 
+            
+  1,92,647.00
+ 15.
+MODEL NO 1431 GRN S/2 (73239920)        
+73239920
+    3.00 SET   
+     480.00
+     1,440.00
+ 16.
+MODEL NO 1431 GRN S/4 (73239920)        
+73239920
+    2.00 SET   
+     940.00
+     1,880.00
+ 17.
+MODEL NO 1431 S/2 (73239920)            
+73239920
+    2.00 SET   
+     480.00
+       960.00
+ 18.
+MODEL NO 1431 S/4 (73239920)            
+73239920
+   11.00 SET   
+     940.00
+    10,340.00
+ 19.
+1512+1330 RED *2 (73239920)             
+73239920
+    1.00 SET   
+     390.00
+       390.00
+ 20.
+1512 SMALL + 1330 WHT S/2 (73239920)    
+73239920
+    2.00 SET   
+     390.00
+       780.00
+ 21.
+MODEL NO 1513 BLK S/2 (73239920)        
+73239920
+    2.00 SET   
+     180.00
+       360.00
+ 22.
+MODEL NO 1513 WHT S/2 (73239920)        
+73239920
+    3.00 SET   
+     180.00
+       540.00
+ 23.
+MODEL NO 1602 S/10 (73239920)           
+73239920
+    4.00 SET   
+      85.00
+       340.00
+ 24.
+MODEL NO 1603 S/3 (73239920)            
+73239920
+    1.00 SET   
+     180.00
+       180.00
+ 25.
+MODEL NO 1702 GRN (73239920)            
+73239920
+    3.00 Pcs.  
+     220.00
+       660.00
+ 26.
+MODEL NO 1730 S/2 (73239920)            
+73239920
+  122.00 SET   
+     310.00
+    37,820.00
+ 27.
+MODEL NO 1736 S/3 (73239920)            
+73239920
+    4.00 SET   
+     210.00
+       840.00
+                                        
+Totals c/o    
+   576.00 Units 
+            
+  2,49,177.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 13
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                          Triplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   576.00 Units 
+            
+  2,49,177.00
+ 28.
+MODEL NO 1736 S/6 (73239920)            
+73239920
+    8.00 SET   
+     402.00
+     3,216.00
+ 29.
+MODEL NO APOLLO BLK S/1 (73239920)      
+73239920
+   13.00 Pcs.  
+     205.00
+     2,665.00
+ 30.
+APOLLO BLK SINGLE WITH GRASS (73239920) 
+73239920
+   10.00 Pcs.  
+     224.00
+     2,240.00
+ 31.
+MODEL NO APOLLO GRN S/2 (73239920)      
+73239920
+   12.00 SET   
+     385.00
+     4,620.00
+ 32.
+APOLLO GRN S/2 WITH GRASS (73239920)    
+73239920
+    9.00 SET   
+     423.00
+     3,807.00
+ 33.
+MODEL NO APOLLO GRN S/4 (73239920)      
+73239920
+   38.00 SET   
+     730.00
+    27,740.00
+ 34.
+APOLLO GRN S/4 WITH GRASS (73239920)    
+73239920
+   19.00 SET   
+     806.00
+    15,314.00
+ 35.
+MODEL NO APOLLO GRN S/1 (73239920)      
+73239920
+    5.00 Pcs.  
+     205.00
+     1,025.00
+ 36.
+APOLLO GRN SINGLE WITH GRASS (73239920) 
+73239920
+    2.00 Pcs.  
+     224.00
+       448.00
+ 37.
+MODEL NO APOLLO WHT S/2 (73239920)      
+73239920
+   27.00 SET   
+     385.00
+    10,395.00
+ 38.
+APOLLO WHT S/2 WITH GRASS (73239920)    
+73239920
+   10.00 SET   
+     423.00
+     4,230.00
+ 39.
+MODEL NO APOLLO WHT S/4 (73239920)      
+73239920
+   29.00 SET   
+     730.00
+    21,170.00
+ 40.
+APOLLO WHT S/4 WITH GRASS (73239920)    
+73239920
+   34.00 SET   
+     806.00
+    27,404.00
+                                        
+Totals c/o    
+   792.00 Units 
+            
+  3,73,451.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 14
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                          Triplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   792.00 Units 
+            
+  3,73,451.00
+ 41.
+MODEL NO APOLLO WHT S/1(73239920)       
+73239920
+   11.00 Pcs.  
+     205.00
+     2,255.00
+ 42.
+APOLLO WHT S/1 WITH GRASS (73239920)    
+73239920
+   11.00 Pcs.  
+     224.00
+     2,464.00
+ 43.
+MODEL NO DH -1 (73239920)               
+73239920
+    1.00 Pcs.  
+     230.00
+       230.00
+ 44.
+MODEL NO PRIMO SINGLE (73239920)        
+73239920
+    4.00 Pcs.  
+     110.00
+       440.00
+ 45.
+MODEL NO PRIMO S/3 (73239920)           
+73239920
+    3.00 SET   
+     300.00
+       900.00
+ 46.
+MODEL NO PRIMO S/6 (73239920)           
+73239920
+    3.00 SET   
+     570.00
+     1,710.00
+ 47.
+MODEL NO PRIMO S/9 (73239920)           
+73239920
+    1.00 SET   
+     810.00
+       810.00
+ 48.
+MODEL NO 1202 GOLD S/2 (73239920)       
+73239920
+    8.00 SET   
+     115.00
+       920.00
+ 49.
+MODEL NO 1403 S/10 (73239920)           
+73239920
+    3.00 SET   
+     210.00
+       630.00
+ 50.
+1512+1330 CYAN*2 (73239920)             
+73239920
+    1.00 SET   
+     390.00
+       390.00
+ 51.
+MODEL NO 1170 S/2 (73239920)            
+73239920
+    1.00 SET   
+     300.00
+       300.00
+                                                                                  
+   3,84,500.00
+                                        
+Totals c/o    
+   839.00 Units 
+            
+  3,84,500.00
+                                                      
+       
+            
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+########################################
+# Page 15
+########################################
+
+[--- QR Code(s) Found ---]
+  QR Code 1: eyJhbGciOiJSUzI1NiIsImtpZCI6IjRERTE1NDRBRTY5NUJEQzg0RUM3QkMxMkYyRjU3RjgxM0Y0NEUzMDEiLCJ4NXQiOiJUZUZVU3VhVnZjaE94N3dTOHZWX2dUOUU0d0UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJOSUMiLCJkYXRhIjoie1wiU2VsbGVyR3N0aW5cIjpcIjA5QUJNQ1MzMzUwQjFaRlwiLFwiQnV5ZXJHc3RpblwiOlwiMDlBQUlDRzI2OTdRMVpNXCIsXCJEb2NOb1wiOlwiMjgxLzIwMjUtMjZcIixcIkRvY1R5cFwiOlwiSU5WXCIsXCJEb2NEdFwiOlwiMjYvMDgvMjAyNVwiLFwiVG90SW52VmFsXCI6NDUzNzEwLjAsXCJJdGVtQ250XCI6NTEsXCJNYWluSHNuQ29kZVwiOlwiNzMyMzk5MjBcIixcIklyblwiOlwiODEwYzhkMDkxZDdmNjY5ODk2Y2Q2MjY1MGY1YTgyMDA4ZjA2MjIzNDE2NGIxZTBkOTExYjFjZWJiOGMyMTVlOVwiLFwiSXJuRHRcIjpcIjIwMjUtMDgtMjYgMTI6MTk6MDBcIn0ifQ.raD_Cm278Zd0vIdA9RwDcaVfhOHlJQepVUJo2jvGmOTwFG5R1hQNGJTXmPdOJD0bd4Z6hc7aVMO2hNh79rw5SjFrchO5z96e1X6eMgLw_6bNRHEgenmi4nF2dhGKpBCi8OTbXEidjaMsKraERAZ_ntTdvTg6taCd3cIn6AhWgzgFzP02ON5KSvtx25jfNkPxCtcjfaRH_OLDVY2fLo70vJRefWxwvsYm_eM2wajPBjjVRHU122sByqfE7JF-SpUSC1JibzMKHZdSSlWBVuQji0YoUTrn-mJyhVHYf7AH_HOUEC9S792kLKs50cEUsuKOc_iMv9-IgEtnAU2_7w-aaA
+[--------------------------]
+
+[--- Decoded QR Payload(s) ---]
+{
+    "iss": "NIC",
+    "data": {
+        "SellerGstin": "09ABMCS3350B1ZF",
+        "BuyerGstin": "09AAICG2697Q1ZM",
+        "DocNo": "281/2025-26",
+        "DocTyp": "INV",
+        "DocDt": "26/08/2025",
+        "TotInvVal": 453710.0,
+        "ItemCnt": 51,
+        "MainHsnCode": "73239920",
+        "Irn": "810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9",
+        "IrnDt": "2025-08-26 12:19:00"
+    }
+}
+[-----------------------------]
+
+[--- Text Content ---]
+GSTIN  : 09ABMCS3350B1ZF               
+                                          Triplicate Copy
+                                 
+ TAX INVOICE  
+         SHAFA AKHDAR MANUFACTURING PVT LTD          
+            VILLAGE NURPUR OPPOSITE MARQUE IMPEX, CHANDAUSI ROAD MORADABAD - 244001             
+                            Tel. : 8445298298, 9897290620   email : shafaakhdarmanufacturingpvtltd@gmail.com                            
+Invoice No.    
+: 281/2025-26                  
+ 
+Station        
+: MORADABAD                     
+Dated          
+: 26-08-2025
+                    
+E-Way Bill No. 
+: 401611734034                  
+Place of Supply
+: Uttar Pradesh (09)            
+               
+:                               
+Reverse Charge 
+: N                             
+               
+:                               
+GR/RR No.      
+:                               
+               
+:                               
+Transport      
+: SELF                          
+               
+:                               
+Vehicle No.    
+: UP38T8608                     
+                                               
+Billed to
+ :                                    
+Shipped to  :                                   
+Grandeur IT Innovations Private Limited        
+Grandeur IT Innovations Private Limited        
+PLOT NO:- 12, Vikas Nagar, Sector-09,          
+Aasha Meena Nagar, Gali No. 08, 0 Meena        
+Lucknow Uttar Pradesh - 226022                 
+Nagar, Got, Moradabad, Uttar Pradesh           
+PH - 7080464808                                
+PIN CODE - 244001                              
+                                               
+PH - 7080464808                                
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+GSTIN / UIN    
+: 09AAICG2697Q1ZM               
+IRN  : 810c8d091d7f669896cd62650f5a82008f062234164b1e0d911b1cebb8c215e9
+Ack.No. : 142518142542948     Ack. Date   :  26-08-2025 
+16 TO 31 JULY                                                                                   
+S.N.
+Description of Goods                    
+HSN/SAC
+    Qty. Unit  
+      Price
+    Amount(` )
+                                            
+Code    
+              
+                        
+                                        
+b/d           
+   839.00 Units 
+            
+  3,84,500.00
+                         
+  Add  : CGST                           
+@
+    9.00 %     
+    34,605.00
+                         
+  Add  : SGST                           
+@
+    9.00 %     
+    34,605.00
+                                          
+Grand Total 
+   839.00 Units 
+          
+` 
+  4,53,710.00
+                                                      
+       
+            
+HSN/SAC  Tax Rate  
+Taxable Amt. 
+CGST Amt. SGST Amt.    Total Tax
+73239920  18%         3,84,500.00   34,605.00   34,605.00    69,210.00
+Rupees Four Lakh Fifty Three Thousand Seven Hundred Ten Only                                    
+Bank Details : BANK NAME - AXIS BANK LTD                                                       
+              
+A/C NO - 923020062353559   /   IFSC CODE - UTIB0005204                          
+Terms & Conditions
+                        
+      
+E-Invoice QR Code
+       
+Receiver's Signature
+ :
+E.& O.E.                                  
+   
+1. Goods once sold will not be taken      
+                              
+back.                                     
+                              
+2. Interest @ 18% p.a. will be charged    
+                              
+if the payment                            
+                              
+is not made with in the stipulated time.  
+                              
+      for SHAFA AKHDAR MANUFACTURING PVT LTD
+3. Subject to 'Uttar Pradesh'             
+                              
+Jurisdiction only.                        
+                              
+                                          
+                              
+                        Authorised Signatory
+[--------------------]
+
+VALIDATION: ERROR ⚠️ (Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy6535eteykbfwahytyfxw6a` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 200040, Requested 1897. Please try again in 13m57.059s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}})
