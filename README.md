@@ -93,7 +93,7 @@ streamlit run app.py
 
 ## 🎥 Demo
 
-[![Watch the video](https://github.com/Prateek-Dilaware/invoice-processing-agent/blob/main/demo/Invoice.mp4)
+[![Watch the video](https://github.com/Prateek-Dilaware/invoice-processing-agent/blob/main/demo/Invoice.mp4)](demo/demo.mp4)
 
 
 ---
@@ -107,4 +107,5 @@ Pull requests are welcome. Please open an issue first to discuss any major chang
 ## 📜 License
 
 This project is licensed under the MIT License.
+
 
