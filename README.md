@@ -4,7 +4,7 @@ An end-to-end automated pipeline for extracting, validating, mapping, and review
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Ingestion** → Extracts text & QR payloads from PDF invoices.
 * **Validation** → Validates invoice data against QR payloads using LLM.
@@ -52,7 +52,7 @@ Clone the repository and set up the environment:
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/invoice-processing-agent.git
+git clone https://github.com/Prateek-Dilaware/invoice-processing-agent.git
 cd invoice-processing-agent
 
 # Create virtual environment
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ### Run the pipeline (CLI mode)
 
@@ -74,16 +74,11 @@ pip install -r requirements.txt
 python pipeline.py
 ```
 
-### Run with API service
-
-```bash
-python Api.py
-```
 
 ### Run the dashboard (UI mode)
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run app.py
 ```
 
 ---
@@ -95,7 +90,15 @@ streamlit run streamlit_app.py
 
 ---
 
-## 🤝 Contributing
+
+## 🎥 Demo
+
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](demo/demo.mp4)
+
+
+---
+
+## Contributing
 
 Pull requests are welcome. Please open an issue first to discuss any major changes.
 
