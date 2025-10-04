@@ -93,10 +93,12 @@ streamlit run app.py
 
 ## 🎥 Demo
 
-[![Watch the video](https://github.com/Prateek-Dilaware/invoice-processing-agent/blob/main/demo/Invoice.mp4)]
 
 
----
+
+https://github.com/user-attachments/assets/95aea8ea-dd55-44f1-88a5-cb2584d8bd3e
+
+
 
 ## Contributing
 
@@ -107,6 +109,7 @@ Pull requests are welcome. Please open an issue first to discuss any major chang
 ## 📜 License
 
 This project is licensed under the MIT License.
+
 
 
 
